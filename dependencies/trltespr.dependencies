@@ -27,7 +27,7 @@
     "account":      "spleef",
     "repository":   "android_device_samsung_trlte-common",
     "target_path":  "device/samsung/trlte-common",
-    "revision":     "cm-12.0"
+    "revision":     "pac"
   },
   {
     "account":      "CyanogenMod",
@@ -51,7 +51,7 @@
     "account":      "CyanogenMod",
     "repository":   "android_hardware_qcom_audio",
     "target_path":  "hardware/qcom/audio-caf/apq8084",
-    "revision":     "cm-12.0-caf-8084"
+    "revision":     "cm-12.0-caf-8084-old"
   },
   {
     "account":      "CyanogenMod",
