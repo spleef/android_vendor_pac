@@ -21,6 +21,7 @@ add_lunch_combo pac_tenderloin-userdebug
 # HTC
 add_lunch_combo pac_dlx-userbebug
 add_lunch_combo pac_evita-userdebug
+add_lunch_combo pac_flounder-userdebug
 add_lunch_combo pac_holiday-userdebug
 add_lunch_combo pac_m4-userdebug
 add_lunch_combo pac_m7-userdebug
@@ -56,6 +57,7 @@ add_lunch_combo pac_falcon-userdebug
 add_lunch_combo pac_ghost-userdebug
 add_lunch_combo pac_moto_msm8960-userdebug
 add_lunch_combo pac_moto_msm8960_jbbl-userdebug
+add_lunch_combo pac_shamu-userdebug
 add_lunch_combo pac_spyder-userdebug
 add_lunch_combo pac_umts_spyder-userdebug
 # Nvidia
@@ -96,6 +98,9 @@ add_lunch_combo pac_n7100-userdebug
 add_lunch_combo pac_r950-userdebug
 add_lunch_combo pac_s2ve-userdebug
 add_lunch_combo pac_s2vep-userdebug
+add_lunch_combo pac_serrano3gxx-userdebug
+add_lunch_combo pac_serranodsdd-userdebug
+add_lunch_combo pac_serranoltexx-userdebug
 add_lunch_combo pac_skyrocket-userdebug
 add_lunch_combo pac_t0lte-userdebug
 add_lunch_combo pac_t0lteatt-userdebug

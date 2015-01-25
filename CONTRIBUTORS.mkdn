@@ -132,6 +132,7 @@ HTC:
 ---------------------------------------------------------------------
 * __Amaze 4G (ruby) :__ JoseGalRe, WildfireDEV
 * __Droid DNA (dlx) :__ pio_masaki
+* __Nexus 9 (flounder) :__ joshuabg
 * __One (AT&T) (m7) :__ MaDc0w, WildfireDEV
 * __One (GSM) (m7) :__ MaDc0w, WildfireDEV
 * __One (Sprint) (m7spr) :__ tdhite, MallardDuck
@@ -183,6 +184,7 @@ Motorola:
 * __Moto X (T-Mobile) (ghost) :__ Skiwong20, timpohladthomas
 * __Moto X (US Cellular) (ghost) :__ Skiwong20, timpohladthomas
 * __Moto X (Verizon-Developer Edition) (ghost) :__ Skiwong20, timpohladthomas
+* __Nexus 6 (shamu) :__ Skiwong20, zyonee, Owain94
 * __Photon Q 4G LTE (moto_msm8960) :__ arrrghhh
 
 
@@ -249,6 +251,9 @@ Samsung:
 * __Galaxy S IV (US Cellular) (jflteusc) :__ Nick0703, JoseGalRe
 * __Galaxy S IV (Verizon) (jfltevzw) :__ Nick0703, JoseGalRe
 * __Galaxy S IV Active (GSM) (jactivelte) :__ mythi
+* __Galaxy S IV mini (GSM) (serrano3gxx) :__ lsdty
+* __Galaxy S IV mini (DUOS) (serranodsdd) :__ lsdty
+* __Galaxy S IV mini (LTE) (serranoltexx) :__ lsdty
 * __Nexus 10 (manta) :__ Volle
 
 
@@ -283,7 +288,7 @@ Xiaomi:
 
 
 
-Total Devices: 130
+Total Devices: 135
 
 Best regards
     szl.kiev

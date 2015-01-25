@@ -1,8 +1,8 @@
 # Backup Tool
 PRODUCT_COPY_FILES += \
     vendor/pac/prebuilt/common/bin/50-backup-script.sh:system/addon.d/50-backup-script.sh \
-    vendor/pac/prebuilt/common/bin/backuptool.functions:system/bin/backuptool.functions \
-    vendor/pac/prebuilt/common/bin/backuptool.sh:system/bin/backuptool.sh
+    vendor/pac/prebuilt/common/bin/backuptool.functions:install/bin/backuptool.functions \
+    vendor/pac/prebuilt/common/bin/backuptool.sh:install/bin/backuptool.sh
 
 # Pac Sounds
 PRODUCT_COPY_FILES += \
@@ -44,12 +44,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Device Overlays
 ifeq ($(PAC_USE_OVERLAYS),true)
     PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/device/$(TARGET_DEVICE)
-endif
-
-# QuickBoot
-# WARNING: This is only for supported devices
-ifeq ($(PAC_USE_QUICKBOOT),true)
-    PRODUCT_COPY_FILES += vendor/pac/prebuilt/common/apk/QuickBoot.apk:system/app/QuickBoot/QuickBoot.apk
 endif
 
 # Disable ADB authentication and set root access to Apps and ADB

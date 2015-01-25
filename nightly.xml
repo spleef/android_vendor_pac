@@ -31,7 +31,6 @@
   <device name="holiday"/>
   <device name="honami"/>
   <device name="i9100"/>
-  <device name="i9300"/>
   <device name="i9305"/>
   <device name="i9500"/>
   <device name="jactivelte"/>
@@ -48,6 +47,8 @@
   <device name="n5110"/>
   <device name="n5120"/>
   <device name="pyramid"/>
+  <device name="shamu"/>
   <device name="spyder"/>
   <device name="tate"/>
+  <device name="v500"/>
 </manifest>

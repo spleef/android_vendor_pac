@@ -26,6 +26,7 @@
     <vendor Name="HTC">
         <device FullName="Amaze 4G" CodeName="ruby"/>
         <device FullName="Droid DNA" CodeName="dlx"/>
+        <device FullName="Nexus 9" CodeName="flounder"/>
         <device FullName="One (AT&amp;T, GSM, T-Mobile)" CodeName="m7"/>
         <device FullName="One (Sprint)" CodeName="m7spr"/>
         <device FullName="One (Verizon)" CodeName="m7vzw"/>
@@ -64,6 +65,7 @@
         <device FullName="Droid Razr M (Verizon), Photon Q 4G LTE" CodeName="moto_msm8960"/>
         <device FullName="Moto E (Global GSM, Retail US)" CodeName="condor"/>
         <device FullName="Moto G (Global GSM, Retail US)" CodeName="falcon"/>
+        <device FullName="Nexus 6" CodeName= "shamu" />
     </vendor>
     <vendor Name="Nvidia">
         <device FullName="Shield Tablet" CodeName="wx_na_wf"/>
@@ -111,6 +113,9 @@
         <device FullName="Galaxy S IV (US Cellular)" CodeName="jflteusc"/>
         <device FullName="Galaxy S IV (Verizon)" CodeName="jfltevzw"/>
         <device FullName="Galaxy S IV Active (GSM)" CodeName="jactivelte"/>
+        <device FullName="Galaxy S IV mini (DUOS)" CodeName="serranodsdd"/>
+        <device FullName="Galaxy S IV mini (GSM)" CodeName="serrano3gxx"/>
+        <device FullName="Galaxy S IV mini (LTE)" CodeName="serranoltexx"/>
         <device FullName="Nexus 10" CodeName="manta"/>
     </vendor>
     <vendor Name="Sony">
